@@ -3,8 +3,8 @@
 
 ## Slide 1: Title Slide
 - **Title**: Comparative Analysis of String Pattern Matching Algorithms for Network Intrusion Detection
-- **Course**: CSC 2400-041 Design of Algorithms Fall 2025
-- **Team Members**: [Team Member Names]
+- **Course**: CSC 2400-002 Design of Algorithms Fall 2025
+- **Team Members**: Whitten Smith, Avery Abad, Sean Southall
 - **Date**: [Presentation Date]
 
 ## Slide 2: Problem Overview
