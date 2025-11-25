@@ -1,6 +1,6 @@
 # Comparative Analysis of String Pattern Matching Algorithms for Network Intrusion Detection
 
-**Course:** CSC 2400-041 Design of Algorithms Fall 2025  
+**Course:** CSC 2400-002 Design of Algorithms Fall 2025  
 **Team Members:** Whitten Smith, Avery Abad, Sean Southall
 **Date:** Fall 2025
 
