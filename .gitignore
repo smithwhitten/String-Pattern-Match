@@ -1,0 +1,41 @@
+# Compiled executables and object files
+*.exe
+*.obj
+*.o
+*.dll
+
+# Large dataset files (too large for GitHub - exceeds 100MB limit)
+*.pcap_ISCX.csv
+*.csv
+*.pcap
+
+# Excel files
+*.xlsx
+
+# Results directory CSV/LOG files (optional - can be large)
+results/**/*.csv
+results/**/*.log
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# IDE files
+.vs/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary files
+*.tmp
+*.bak
+

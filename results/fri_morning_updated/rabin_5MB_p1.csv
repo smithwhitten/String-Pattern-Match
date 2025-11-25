@@ -1,0 +1,6 @@
+trial,execution_seconds,char_comparisons,hash_operations,token_checks,matches,true_positives,false_positives
+1,0.350338,0,10434159,0,0,0,0
+2,0.367536,0,10434159,0,0,0,0
+3,0.765780,0,10434159,0,0,0,0
+4,0.585097,0,10434159,0,0,0,0
+5,0.508250,0,10434159,0,0,0,0

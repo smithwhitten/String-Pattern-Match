@@ -1,0 +1,112 @@
+
+Averages over 5 trial(s):
+  Execution time (s): 0.1036
+  Character comparisons: 10451648 (average)
+  Matches: 2 (average)
+  True positives: 0 (average)
+  False positives: 2 (average)
+
+Averages over 5 trial(s):
+  Execution time (s): 0.9972
+  Character comparisons: 103289398 (average)
+  Matches: 2 (average)
+  True positives: 0 (average)
+  False positives: 2 (average)
+
+Averages over 5 trial(s):
+  Execution time (s): 2.1107
+  Character comparisons: 206510876 (average)
+  Matches: 34088 (average)
+  True positives: 0 (average)
+  False positives: 34088 (average)
+
+Averages over 5 trial(s):
+  Execution time (s): 0.5003
+  Character comparisons: 51303768 (average)
+  Matches: 2 (average)
+  True positives: 0 (average)
+  False positives: 2 (average)
+
+Averages over 5 trial(s):
+  Execution time (s): 0.0126
+  Character comparisons: 1044912 (average)
+  Matches: 0 (average)
+  True positives: 0 (average)
+  False positives: 0 (average)
+
+Averages over 5 trial(s):
+  Execution time (s): 0.1119
+  Character comparisons: 10326544 (average)
+  Matches: 0 (average)
+  True positives: 0 (average)
+  False positives: 0 (average)
+
+Averages over 5 trial(s):
+  Execution time (s): 0.2096
+  Character comparisons: 20646288 (average)
+  Matches: 3405 (average)
+  True positives: 0 (average)
+  False positives: 3405 (average)
+
+Averages over 5 trial(s):
+  Execution time (s): 0.0606
+  Character comparisons: 5129220 (average)
+  Matches: 0 (average)
+  True positives: 0 (average)
+  False positives: 0 (average)
+
+Averages over 5 trial(s):
+  Execution time (s): 0.2659
+  Character comparisons: 26129049 (average)
+  Matches: 165 (average)
+  True positives: 0 (average)
+  False positives: 165 (average)
+
+Averages over 5 trial(s):
+  Execution time (s): 2.4931
+  Character comparisons: 258211349 (average)
+  Matches: 165 (average)
+  True positives: 0 (average)
+  False positives: 165 (average)
+
+Averages over 5 trial(s):
+  Execution time (s): 5.1972
+  Character comparisons: 516251328 (average)
+  Matches: 85497 (average)
+  True positives: 0 (average)
+  False positives: 85497 (average)
+
+Averages over 5 trial(s):
+  Execution time (s): 1.2351
+  Character comparisons: 128250669 (average)
+  Matches: 165 (average)
+  True positives: 0 (average)
+  False positives: 165 (average)
+
+Averages over 5 trial(s):
+  Execution time (s): 0.0557
+  Character comparisons: 5225594 (average)
+  Matches: 0 (average)
+  True positives: 0 (average)
+  False positives: 0 (average)
+
+Averages over 5 trial(s):
+  Execution time (s): 0.5431
+  Character comparisons: 51642950 (average)
+  Matches: 0 (average)
+  True positives: 0 (average)
+  False positives: 0 (average)
+
+Averages over 5 trial(s):
+  Execution time (s): 1.0093
+  Character comparisons: 103251979 (average)
+  Matches: 17029 (average)
+  True positives: 0 (average)
+  False positives: 17029 (average)
+
+Averages over 5 trial(s):
+  Execution time (s): 0.2538
+  Character comparisons: 25651158 (average)
+  Matches: 0 (average)
+  True positives: 0 (average)
+  False positives: 0 (average)
